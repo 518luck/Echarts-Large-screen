@@ -12,6 +12,7 @@
     "@kjgl77/datav-vue3": "^1.7.4",
     "echarts": "^5.6.0",
     "modern-normalize": "^3.0.1",
+    "sass": "^1.89.2",
     "vue": "^3.5.17"
   },
   "devDependencies": {
